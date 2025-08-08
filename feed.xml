@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>rocklobstermindset</title>
+    <link href="https://newellbt.github.io/rocklobstermindset/feed.xml" rel="self" />
+    <link href="https://newellbt.github.io/rocklobstermindset" />
+    <updated>2025-08-08T16:54:04-04:00</updated>
+    <author>
+        <name>bnewell</name>
+    </author>
+    <id>https://newellbt.github.io/rocklobstermindset</id>
+
+    <entry>
+        <title>Rock Lobster is a mindset -Earl</title>
+        <author>
+            <name>bnewell</name>
+        </author>
+        <link href="https://newellbt.github.io/rocklobstermindset/rock-lobster-is-a-mindset-earl.html"/>
+        <id>https://newellbt.github.io/rocklobstermindset/rock-lobster-is-a-mindset-earl.html</id>
+
+        <updated>2025-08-08T16:54:04-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Rock Lobster is a mindset -Earl
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://rocklobstermindset.suppletire.com/images/rock-lobster-mindset-earl-2.jpg" alt="Photo 2" data-is-external-image="true"></p>
+<p><img loading="lazy" src="https://rocklobstermindset.suppletire.com/images/rock-lobster-mindset-earl-3.jpg" alt="Photo 3" data-is-external-image="true"></p>
+<p><img loading="lazy" src="https://rocklobstermindset.suppletire.com/images/rock-lobster-mindset-earl-1.JPG" alt="Photo 1" data-is-external-image="true"></p>
+<p> </p>
+<p>Rock Lobster is a mindset -Earl</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
